@@ -1,6 +1,7 @@
 # don't include actual course recordings/files
 recordings/
 working/
+.idea
 
 # numpy binaries can be large so don't include
 *.npy
